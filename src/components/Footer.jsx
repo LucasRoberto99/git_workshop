@@ -1,5 +1,9 @@
 const Footer = () => {
-  return <div>Je suis un footer de Alexis</div>;
+  return (
+    <footer style={{ backgroundColor: "red" }}>
+      Je suis un footer de Alexis
+    </footer>
+  );
 };
 
 export default Footer;
