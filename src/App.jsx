@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Header />
-      <p>Salut à tous ceci est un workshop destiné aux élèves du reacteur</p>
+      <p>héhéhé c'est un conflit</p>
     </>
   );
 }
