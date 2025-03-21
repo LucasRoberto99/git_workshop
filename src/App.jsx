@@ -6,6 +6,7 @@ function App() {
     <>
       <Header />
       <p>héhéhé c'est un conflit</p>
+      <p>Salut les jeun's</p>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates
         quaerat illo magni officia iure reprehenderit animi possimus, libero
