@@ -5,7 +5,12 @@ function App() {
   return (
     <>
       <Header />
-      <p>Salut à tous ceci est un workshop destiné aux élèves du reacteur</p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates
+        quaerat illo magni officia iure reprehenderit animi possimus, libero
+        incidunt placeat eveniet temporibus ab repudiandae, iste totam velit
+        facere magnam asperiores!
+      </p>
     </>
   );
 }
